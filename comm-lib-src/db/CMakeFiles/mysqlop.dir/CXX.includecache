@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mydir/Exchange_Service_Module/comm-lib-src/db/src/mysqlop.cc
+unistd.h
+-
+cstdlib
+-
+cstring
+-
+mysqlop.h
+/mydir/Exchange_Service_Module/comm-lib-src/db/src/mysqlop.h
+error.h
+-
+
+include/mysqlop.h
+memory
+-
+exception
+-
+mutex
+-
+string
+-
+mysql/mysql.h
+-
+forward_list
+-
+vector
+-
+

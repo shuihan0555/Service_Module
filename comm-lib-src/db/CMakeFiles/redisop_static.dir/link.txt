@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libredisop.a  CMakeFiles/redisop_static.dir/src/redisop.cc.o CMakeFiles/redisop_static.dir/src/redis_command_table.c.o
+/usr/bin/ranlib lib/libredisop.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cq lib/libmysqlop.a  CMakeFiles/mysqlop_static.dir/src/mysqlop.cc.o
+/usr/bin/ranlib lib/libmysqlop.a

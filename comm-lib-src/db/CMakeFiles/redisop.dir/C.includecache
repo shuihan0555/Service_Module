@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mydir/Exchange_Service_Module/comm-lib-src/db/src/redis_command_table.c
+redis_command_table.h
+/mydir/Exchange_Service_Module/comm-lib-src/db/src/redis_command_table.h
+
+include/redis_command_table.h
+

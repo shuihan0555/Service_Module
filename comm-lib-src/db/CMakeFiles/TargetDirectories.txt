@@ -1,0 +1,5 @@
+/mydir/Exchange_Service_Module/comm-lib-src/db/CMakeFiles/mysqlop_static.dir
+/mydir/Exchange_Service_Module/comm-lib-src/db/CMakeFiles/main.dir
+/mydir/Exchange_Service_Module/comm-lib-src/db/CMakeFiles/redisop_static.dir
+/mydir/Exchange_Service_Module/comm-lib-src/db/CMakeFiles/mysqlop.dir
+/mydir/Exchange_Service_Module/comm-lib-src/db/CMakeFiles/redisop.dir

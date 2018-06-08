@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -g -Wall -std=c++11  -shared -Wl,-soname,libredisop.so.1.0 -o lib/libredisop.so.1.0 CMakeFiles/redisop.dir/src/redisop.cc.o CMakeFiles/redisop.dir/src/redis_command_table.c.o  -L/mydir/Exchange_Service_Module/comm-lib-src/db/../xlogger  -L/mydir/Exchange_Service_Module/comm-lib-src/db/../xlogger/lib 
